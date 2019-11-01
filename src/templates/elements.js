@@ -291,7 +291,7 @@ export default class Elements extends React.Component {
                             <div className="box alt">
                                 <div className="row gtr-uniform">
                                     <div className="col-12"><span className="image fit"><img src="images/pic04.jpg" alt="" /></span></div>
-                                    <div className="col-4"><span className="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+                                    <div className="col-4"><span className="image fit"><img src="hello.jpg" alt="" /></span></div>
                                     <div className="col-4"><span className="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
                                     <div className="col-4"><span className="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
                                     <div className="col-4"><span className="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
